@@ -1,7 +1,7 @@
 Hi there 👋 Welcome
 
-Hello my name is Kishore Greesan M. I'm from Scaler learing software development
-I have huge intrest in backend development and problem solving... So currently working on enhancing my skills on this area 😊
+My name is Kishore Greesan M. I'm from Scaler learing software development
+I have huge interest in backend development and problem solving... So currently working on enhancing my skills on this area 😊
 I would love to colloborate with any community and team to solve something for the society
 
 Skills:
