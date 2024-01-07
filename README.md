@@ -1,16 +1,18 @@
-### Hi there 👋
+Hi there 👋 Welcome
 
-<!--
-**GreeKishore/GreeKishore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello my name is Kishore Greesan M. I'm from Scaler learing software development
+I have huge intrest in backend development and problem solving... So currently working on enhancing my skills on this area 😊
+I would love to colloborate with any community and team to solve something for the society
 
-Here are some ideas to get you started:
+Skills:
+Backend Development(Java, Spring)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tools:
+Intellij, Postman, DBeaver, Git, Mysql, Java
+
+- 🔭 I’m currently working on enhancing my problem solving skills
+- 🌱 I’m currently learning DSA
+- 🤔 I’m looking for help to start with open source contribution
+- 📫 How to reach me: Linkedin, Gmail
+- 😄 Pronouns: He/Him
+
